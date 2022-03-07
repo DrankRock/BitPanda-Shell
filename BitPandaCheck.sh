@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author : Matvei Pavlov
+# Github : https://github.com/DrankRock
+
 ## Usage : ./BitPandaCheck.sh "AMZN,GOOGL,AAPL"
 link="https://api.bitpanda.com/v2/assets/prices?assetIds="
 input=$1
@@ -15,12 +18,10 @@ do
 	link="$link$id,"
 	allLines="$allLines|$fullLine"
 done
-echo "AllLine :: $allLines"
 link="$link&page_size=$((nComma+1))"
-echo $link
 tmpfile=$(mktemp /tmp/BitPandaOut.script_.XXXXXX)
 tmpfile2=$(mktemp /tmp/BitPandaOut2.script_.XXXXXX)
-curl $link -o $tmpfile
+curl -s $link -o $tmpfile
 sed -i -e 's/{"type":"asset","attributes":{"price":"/\n/g' $tmpfile
 sed -i -e 's/","price_changes":{"day":"/,/g' $tmpfile
 sed -i -e 's/","week":"/,/g' $tmpfile
