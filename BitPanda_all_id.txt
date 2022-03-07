@@ -1,0 +1,863 @@
+AAPL;Apple;75
+MSFT;Microsoft;78
+GOOGL;Alphabet;72
+AMZN;Amazon;73
+TSLA;Tesla;85
+BRK;Berkshire Hathaway;342
+NVDA;Nvidia;80
+FB;Meta;77
+TSM;Taiwan Semiconductors;947
+TCTZF;Tencent;149
+UNH;UnitedHealth;996
+JNJ;Johnson & Johnson;614
+V;Visa;92
+WMT;Walmart;1021
+JPM;JPMorgan Chase;615
+PG;Procter & Gamble;827
+XOM;Exxon Mobil;98
+HD;Home Depot;568
+SMSN;Samsung;876
+NESN;Nestle;766
+BAC;Bank of America;329
+CVX;Chevron;387
+MA;Mastercard;90
+MC;LVMH;103
+ROG;Roche;861
+PFE;Pfizer;101
+KO;Coca-Cola;94
+BABA;Alibaba;114
+ABBV;Abbvie;249
+DIS;Walt Disney;104
+LLY;Eli Lilly;472
+AVGO;Broadcom;359
+CSCO;Cisco;107
+ASML;ASML Holdings;313
+ORCL;Oracle;798
+COST;Costco Wholesale;411
+VZ;Verizon;1007
+NOVO;Novo Nordisk;789
+PEP;PepsiCO;108
+TM;Toyota Motor;978
+TMO;Thermo Fisher;970
+ABT;Abbott Laboratories;248
+CMCSA;Comcast;401
+ADBE;Adobe;74
+NKE;Nike;95
+RDSA;Shell;99
+DHR;Danaher Corp;423
+ACN;Accenture;264
+OR;L'Or\u00e9al SA;110
+MRKUS;Merck & Co;722
+INTC;Intel;184
+WFC;Wells Fargo;1025
+NOVN;Novartis;787
+CRM;Salesforce;150
+UPS;UPS;994
+QCOM;Qualcomm;190
+939;China Construction Bank;388
+AZN;AstraZeneca;102
+MCD;McDonalds;105
+T;AT&T;317
+UNP;Union Pacific;989
+NEE;NextEra Energy;776
+NFLX;Netflix;79
+TXN;Texas Instruments;968
+RY;Royal Bank of Canada;866
+TMUS;T-Mobile US;945
+PM;Philip Morris;814
+MS;Morgan Stanley;753
+BMY;Bristol Myers Squibb;357
+RTX;Raytheon Technologies Corporation;849
+LOW;Lowes Cos;695
+MDT;Medtronic;720
+BX;Blackstone;350
+SCHW;Charles Schwab;384
+TD;Toronto-Dominion Bank;976
+CVS;CVS Health Corporation;421
+LIN;Linde;687
+COP;ConocoPhillips;407
+RIO;Rio Tinto;859
+AMGN;Amgen;294
+AMD;AMD;186
+LMT;Lockheed Martin;690
+AXP;American Express;291
+RMS;Hermes;214
+HON;Honeywell International Incorporation;570
+FP;Total;230
+INTU;Intuit;596
+SAP;SAP;81
+CBA;Commonwealth Bank of Australia;404
+HSBA;HSBC;575
+DE;Deere & Co;430
+SAN;Sanofi;222
+SONY;Sony;915
+ANTM;Anthem;304
+PYPL;Paypal;91
+EQNR;Equinor;485
+ULVR;Unilever;96
+IBM;IBM;592
+BACHY;Bank of China;330
+AMAT;Applied Materials;306
+NOW;Servicenow;892
+C;Citigroup;395
+GS;Goldman Sachs;541
+BLK;BlackRock;145
+ISRG;Intuitive Surgical;597
+SBUX;Starbucks;109
+TGT;Target;951
+BA;Boeing;106
+ABI;Anheuser-Busch;301
+DGE;Diageo;442
+CAT;Caterpillar;378
+VALE3;Vale;999
+VOW;Volkswagen;86
+EL;Estee Lauder;487
+SYK;Stryker;929
+GSK;GlaxoSmithKline;537
+MO;Altria Group;287
+GE;General Electric;528
+SIE;Siemens;88
+CHTR;Charter Communications;385
+ENB;Enbridge;477
+BP;British Petroleum;97
+BATS;British American Tobacco;358
+MU;Micron Technology;729
+ABNB;Airbnb;122
+MDLZ;Mondelez;734
+JD;JD.com;179
+MMM;3M Company;244
+PRX;Prosus;829
+SFTBY;SoftBank;910
+CSX;CSX;419
+ALV;Allianz;89
+ADI;Analog Devices;298
+USB;US Bancorp;982
+GLEN;Glencore;538
+DUK;Duke Energy;459
+MRK;Merck;723
+HCA;HCA Healthcare;549
+DTE;Deutsche Telekom;76
+BKNG;Booking Holdings;353
+AIR;Airbus;87
+MMC;Marsh McLennan;716
+TFC;Truist Financial;980
+CI;Cigna;392
+GILD;Gilead Sciences;534
+PNC;PNC Financial Services;821
+9433;KDDI;624
+SU;Schneider Electric;224
+LRCX;Lam Research;674
+TJX;TJX Companies;975
+FCX;Freeport-McMoRan;516
+SO;Southern Company;921
+ECL;Ecolab;465
+SHOP;Shopify;176
+EOG;EOG Resources;481
+KER;Kering;215
+AI;Air Liquide;199
+BYDDF;BYD;363
+NSC;Norfolk Southern;784
+F;Ford;510
+D;Dominion Energy;454
+REGN;Regeneron Pharmaceuticals;852
+AA;Anglo American;300
+TEAM;Atlassian;320
+DAI;Mercedes-Benz Group;84
+CL;Colgate-Palmolive;399
+ITX;Inditex;586
+SHL;Siemens Healthineers;896
+ELX;EssilorLuxottica;213
+ATVI;Activision Blizzard;268
+FISV;Fiserv;505
+CFR;Richemont;405
+GM;General Motors;530
+ZURN;Zurich Insurance;1052
+VRTX;Vertex Pharm;1008
+NEW;Newmont;773
+BNP;BNP Paribas;204
+MCO;Moodys;752
+WDAY;Workday;1040
+SNOW;Snowflake;907
+PXD;Pioneer Natural Resource;817
+ABBN;ABB;247
+ETN;Eaton;464
+NTDOY;Nintendo;779
+IBE;Iberdrola;579
+OXY;Occidental Petroleum;794
+UBER;Uber;113
+CS;AXA;203
+NTES;Netease;769
+PBR;Petroleo Brasileiro;813
+MAERSK;A P Moller - Maersk;245
+SLB;Schlumberger;884
+FDX;Fedex;499
+KDP;Keurig Dr Pepper;632
+ATCO;Atlas Copco;319
+COF;Capital One Financial;371
+FIS;FIS;501
+INVE;Investor;600
+EMR;Emerson Electric;475
+FRCOY;Fast Retailing;496
+LSEG;London Stock Exchange Group;693
+FTNT;Fortinet;511
+8058;Mitsubishi;730
+BAYN;Bayer;100
+MRNA;Moderna;147
+DPW;Deutsche Post;438
+UMG;Universal Music Group;997
+SNAP;Snap;160
+MET;Metlife;724
+TRI;Thomson Reuters;972
+MELI;Mercadolibre;721
+UBSG;UBS;983
+DG;Vinci;232
+ADYEN;Adyen;272
+MAR;Marriott International;715
+NG;National Grid;762
+ILMN;Illumina Inc;583
+ENI;Eni;479
+RI;Pernod Ricard;218
+KLAC;KLA;665
+BMW;BMW;83
+HEIA;Heineken;551
+ORSTED;Orsted;800
+BAS;BASF;335
+KHC;Kraft Heinz;670
+AEP;American Electric Power;290
+SQ;Block;180
+HMC;Honda Motor;569
+SNPS;Synopsis;943
+ADM;ADM;308
+TKPHF;Takeda Pharmaceutical;949
+AIG;American International Group;292
+NXPI;NXP Semiconductors;792
+XLNX;Xilinx;1044
+MPC;Marathon Petroleum;712
+6902;Denso;434
+MQG;Macquarie Group;709
+ADSK;Autodesk;323
+IDXX;IDEXX Laboratories;582
+SPG;Simon Property Group;898
+HSY;Hershey;559
+SAF;Safran;221
+3CP;Xiaomi;146
+KMB;Kimberly-Clark;658
+STLA;Stellantis;226
+SYY;Sysco;944
+KMI;Kinder Morgan;660
+MNST;Monster Beverage;751
+DOW;Dow Inc;456
+KR;Kroger;671
+HTHIY;Hitachi;566
+VOD;Vodafone;1015
+CDNS;Cadence Design Systems;365
+DXCM;DexCom;441
+GIS;General Mills;529
+WBA;Walgreens Boots Alliance;1020
+LULU;Lululemon;697
+DVN;Devon Energy;440
+DSV;DSV;457
+CMG;Chipotle Mexican Grill;389
+BK;Bank of New York Mellon;332
+CRWD;CrowdStrike;191
+PRUF;Prudential Financial;831
+DLR;Digital Realty Trust;445
+CTAS;Cintas;394
+HPQ;HP;574
+AFL;Aflac;277
+DELL;Dell;432
+CARR;Carrier Global;376
+ISP;Intesa Sanpaolo;595
+NUE;Nucor;791
+DD;DuPont de Nemours;460
+BIDU;Baidu;162
+HLT;Hilton;565
+ANPDY;Anta Sports;303
+PSX;Phillips 66;815
+LLOY;Lloyds;689
+CTVA;Corteva;410
+IFX;Infineon Technologies;188
+ADS;Adidas;93
+RMD;Resmed;857
+MSI;Motorola Solutions;756
+ODFL;Old Dominion Freight Line;795
+PH;Parker-Hannifin;806
+GPN;Global Payments;539
+EA;Electronic Arts;471
+CPNG;Coupang;413
+WELL;Welltower;1026
+CPG;Compass Group;406
+ALGN;Align Technology;284
+VLO;Valero Energy;1001
+ALC;Alcon AG;282
+ANET;Arista Networks;310
+RACE;Ferrari;500
+PRU;Prudential;832
+COIN;Coinbase;148
+PDD;Pinduoduo;816
+NDA;Nordea;782
+KNIN;Kuehne & Nagel International;672
+BN;Danone;210"}]
+TLS;Telstra;961
+YUM;Yum Brands;1048
+DLTR;Dollar Tree;452
+INGA;ING Groep;588
+SE;Sea;889
+BF;Brown-Forman;360
+OGZD;Gazprom;835
+BARC;Barclays;334
+MCHP;Microchip Technology;728
+EBAY;eBay;177
+OTIS;Otis Worldwide;802
+MUV2;Munich RE;759
+WOW;Woolworths Group;1039
+HES;Hess;560
+STM;STMicroelectronics;227
+ZM;Zoom Video;112
+HEXA;Hexagon;562
+GLW;Corning;409
+VER;VERBUND;1005
+LYB;LyondellBasell Industries;707
+NET;Cloudflare;182
+HAL;Halliburton;543
+ROST;Ross Stores;865
+TROW;T. Rowe Price;946
+BAE;BAE Systems;324
+SIVB;Silicon Valley Bank;934
+MTD;Mettler-Toledo;727
+BNTX;BioNTech;161
+IFF;Intl Flavours & Fragrances;594
+DFS;Discovere;447
+CAP;Capgemini;206
+BIIB;Biogen;348
+OKE;ONEOK;797
+DNB;DNB Bank;450
+COLO;Coloplast;400
+SCMN;Swisscom;940
+DHI;D.R. Horton;422
+ACA;Credit Agricole;209
+BKR;Baker Hughes Company;325
+ABC;AmerisourceBergen;293
+SLF;Sun Life;930
+PCAR;Paccar;803
+FITB;Fifth Third Bancorp;503
+PGHN;Partners Group;807
+LVS;Las Vegas Sands;677
+VWS;Vestas;1009
+CBRE;CBRE Group;380
+ORA;Orange;217
+HEN3;Henkel;554
+STT;State Street;925
+SRT3;Sartorius;879
+VNA;Vonovia;1017
+APTV;Aptiv;307
+NDAQ;Nasdaq;761
+HRL;Hormel Foods;571
+EOAN;E.ON;462
+DB1;Deutsche Boerse;436
+EFX;Equifax;484
+TSCO;Tesco;966
+NESTE;Neste;765
+MTCH;Match;170
+KNEBV;KONE;668
+WLTW;Willis Towers Watson;1035
+BBY;Best Buy Company;343
+EXPE;Expedia;495
+G;Generali;315
+SGO;Saint-Gobain;207
+LEN;Lennar;681
+HOLN;Holcim Group;567
+HO;Thales;229
+BRDCY;Bridgestone;356
+TWTR;Twitter;82
+ENGI;ENGIE;212
+SGT;Seagate Technology;890
+EQT;EQT Partners;482
+FJTSY;Fujitsu;521
+PHIA;Koninklijke Philips;669
+NOKIA;Nokia;126
+ERIC;Ericsson;958
+SPOT;Spotify;169
+LYV;Live Nation Entertainment;688
+MT;ArcelorMittal;202
+FANG;Diamondback Energy;443
+AMDS;Amadeus IT Group;288
+FOXA;Fox Corporation;166
+RWE;RWE;872
+SIRI;Sirius XM;899
+VRSN;VeriSign;1006
+EDF;Electricite de France;470
+CAJ;Canon;369
+TEF;Telefonica;959
+MOS;The Mosaic Company;755
+LUV;Southwest Airlines;922
+SREN;Swiss Re;939
+KBC;KBC Group;618
+ITUB;Ita\u00fa Unibanco;606
+SANDV;Sandvik;877
+SCHP;Schindler Holding;883
+PLTR;Palantir;127
+LR;Legrand;216
+URI;United Rentals;995
+NIO;NIO;144
+PAH3;Porsche Automobil Holding;823
+MTB;M&T Bank;708
+HIG;The Hartford;547
+CTRA;Coterra Energy;412
+NTRS;Northern Trust;786
+SWKS;Skyworks Solutions;904
+VTR;Ventas;1004
+K;Kellogg's;625
+IT;Gartner;526
+EDPR;EDP Renovaveis;467
+STMN;Straumann;928
+VIAC;Paramount;1010
+PCRFY;Panasonic;804
+HM;H&M;542
+DAL;Delta Air Lines;156
+ENPH;Enphase Energy;480
+KEY;Keycorp;633
+SOON;Sonova;914
+VFC;VF Corporation;998
+GRMN;Garmin;525
+JBHT;J.B. Hunt;609
+HPE;Hewlett Packard;561
+BT;BT Group;361
+NHY;Norsk Hydro;785
+HBAN;Huntington Bancshares;576
+RFC;Regions Financial;853
+ALB;Albemarle;281
+ULTA;Ulta Beauty;985
+EMSN;Ems Chemie;476
+BEI;Beiersdorf;340
+RJF;Raymond James Financial;848
+TEP;Teleperformance;228
+EVO;Evolution;491
+AENA;Aena;274
+GMAB;Genmab;531
+GNRC;Generac Holdings;527
+SEB;Skandinaviska Enskilda Banken;901
+CFG;Citizens Financial Group;396
+UCB;UCB;984
+ML;Michelin;208
+CF;CF Industries;383
+CINF;Cincinnati Financial;393
+SYF;Synchrony;942
+DOCU;DocuSign;183
+BXP;Boston Properties;354
+MPWR;Monolithic Power Systems;750
+KRZ;Kerry Group;630
+IMB;Imperial Brands;585
+ETSY;Etsy;175
+MGM;MGM Resorts;152
+DTG;Daimler Truck;1088
+FLTR;Flutter Entertainment;508
+MRO;Marathon Oil;711
+MG;Magna;710
+PAYC;Paycom Software;808
+NIBE;NIBE Industrier;777
+ERF;Eurofins Scientific;236
+RPS;Repsol;856
+STAN;Standard Charter;924
+TER;Teradyne;964
+CSGN;Credit Suisse;417
+TTWO;Take-Two Interactive Software;948
+FLT;Fleetcor;506
+NTAP;NetApp;767
+CNHI;CNH Industrial;398
+GLE;Societe Generale;225
+PFG;Principal;826
+BIO;Bio-Rad Laboratories;346
+EDP;EDP;468
+SRG;Snam;906
+CCL;Carnival;375
+DRI;Darden Restaurants;425
+RCL;Royal Caribbean;154
+KMX;Carmax;374
+CZR;Caesars Entertainment;366
+WMG;Warner Music Group;1023
+ROL;Rollins;863
+TOSBF;Toshiba;977
+TEN;Tenaris;963
+FME;Fresenius Medical Care;518
+SLHN;Swiss Life;938
+FRE;Fresenius;519
+SZKMY;Suzuki Motor;933
+CARL;Carlsberg;373
+DOL;Dollarama;453
+ROKU;Roku;165
+LATO;Investment AB Latour;678
+TECH;Bio-Techne;347
+NSANY;Nissan Motor;780
+SY1;Symrise;941
+WRB;W. R. Berkley;1019
+DISH;Dish Network;449
+KRX;Kingspan Group;662
+SEDG;SolarEdge;912
+TRN;Terna;965
+TXT;Textron;969
+TTM;Tata Motors;952
+VIE;Veolia Environnement;231
+WDC;Western Digital;1029
+L;Loew's;691
+LDOS;Leidos Holdings;680
+CA;Carrefour;181
+IRM;Iron Mountain;603
+DPZ;Domino's Pizza;455
+ENR;Siemens Energy;894
+JDEP;JDE Peets;611
+QRVO;Qorvo;841
+RY4C;Ryanair;873
+KIM;Kimco Realty;659
+APA;APA Corporation;305
+EXO;Exor;494
+HWM;Howmet Aerospace;573
+FORTUM;Fortum;512
+BEN;Franklin Resources;513
+ABMD;Abiomed;251
+ASM;ASM International;312
+TELIA;Telia Company;960
+MKTX;MarketAxess;713
+BBWI;Bath & Body Works;336
+CPB;Campbell Soup;368
+DISCA;Discovery;448
+TRYG;Tryg;981
+AFX;Carl Zeiss Meditec;372
+ATL;Atlantia;318
+PLUG;Plug Power;820
+AKRBP;Aker BP;279
+PUB;Publicis Groupe;219
+KPN;Royal KPN;867
+NMR;Nomura;781
+SGRE;Siemens Gamesa Renewable Energy;895
+BOL;Boliden;351
+BOLL;Bollore;352
+RHI;Robert Half;860
+JMT;Jeronimo Martins;612
+DWNI;Deutsche Wohnen;439
+ZG;Zillow;1049
+HAS;Hasbro;548
+BURL;Burlington;362
+CON;Continental;408
+PTC;PTC;834
+NWS;News Corporation;774
+ARGX;Argenx;309
+RKUNY;Rakuten;844
+VIV;Vivendi;233
+PST;Poste Italiane;824
+ADP;Aeroports de Paris;275
+VTRS;Viatris;1011
+HST;Host Hotels & Resorts;572
+STERV;Stora Enso;926
+MONC;Moncler;733
+EN;Bouygues;205
+MOWI;Mowi;757
+LYFT;Lyft;706
+PHM;Pulte;836
+DANSKE;Danske Bank;424
+LOGN;Logitech;692
+WHR;Whirlpool Corp;1033
+LNVGY;Lenovo;682
+SOF;Sofina;909
+LUNE;Lundin Energy;705
+HSIC;Henry Schein;555
+CMA;Comerica;402
+WLN;Worldline;234
+EVK;Evonik;492
+VIFN;Vifor Pharma;1013
+UAL;United Airlines;992
+REG;Regency Centers;851
+KBX;Knorr-Bremse;667
+GJF;Gjensidige;535
+AMUN;Amundi;297
+YAR;Yara International;1046
+WRK;WestRock;1031
+BNR;Brenntag;355
+TAP;Molson Coors Beverage Company;732
+CPR;Campari Group;426
+EGB;Erste Bank;486
+LNC;Lincoln National Corp;686
+BIM;Biomerieux;349
+IHG;InterContinental Hotels;591
+MTX;MTU Aero Engines;758
+SWMA;Swedish Match;936
+TDOC;Teladoc Health;955
+LUMN;Lumen Technologies;704
+HEI;HeidelbergCement;550
+PUM;Puma;837
+SW;Sodexo;908
+RAND;Randstad;846
+NLY;Annaly Capital Management;302
+GALP;Galp;523
+EDEN;Edenred;466
+ZNGA;Zynga;1053
+QGEN;Qjagen;840
+CDAY;Ceridian;382
+SDR;Schroders;886
+WHGLY;WH Group;1032
+TPR;Tapestry;950
+BAER;Julius Baer Group;616
+NWL;Newell Brands;772"}]
+RR;Rolls Royce;864
+ABN;ABN AMRO Bank;252
+ZION;Zions Bancorporation;1050
+OGN;Organon;799
+ELI;Elia Group;473
+KESKOB;Kesko;631
+ADMG;Admiral Group;271
+LIFCO;Lifco;685
+FRT;Federal Realty Investment Trust;498
+WYNN;Wynn;1042
+AFRM;Affirm;276
+INW;Inwit;587
+REC;Recordati;850
+AAL;American Airlines;158
+KGX;KION GROUP;664
+UMI;Umicore;986
+RCO;Remy Cointreau;854
+SOLB;Solvay;913
+CHR;Chr. Hansen Holding;390
+NRG;NRG Energy;790
+MHK;Mohawk Industries;731
+AMP;Amplifon;295
+DEMANT;Demant;433
+IPN;Ipsen;602
+PKO;PKO Bank Polski;818
+1COV;Covestro;415
+PBCT;People's United Financial;811
+TEL2;Tele2;956
+IVZ;Invesco;598
+FGR;Eiffage;469
+DHER;Delivery Hero;171
+RL;Ralph Lauren;845
+LW;Lamb Weston;675
+AGN;Aegon;273
+BRBY;Burberry;172
+VNO;Vornado Realty;1018
+MNDI;Mondi;735
+SALM;SalMar;875
+AMC;AMC Entertainment;123
+KGH;KGHM Polska Miedz;657
+DKNG;DraftKings;168
+DBX;Dropbox;185
+TEVA;Teva Pharamaceuticals;967
+URW;Unibail Rodamco Westfield;235
+AGS;Ageas;278
+SKA;Skanska;902
+PNDORA;Pandora;805
+YAMCF;Yamaha;1045
+PENN;Penn National Gaming;810
+FSLR;First Solar;504
+NYT;New York Times;771
+RAA;Rational;847
+IAG;International Consolidated Airlines Group;593
+DXC;DXC Technology;461
+DIA;DiaSorin;444
+RRTL;RTL Group;870
+CBK;Commerzbank;403
+UAA;Under Armour;987
+RHM;Rheinmetall;858
+SMIN;Smiths Group;905
+PKN;PKN Orlen;822
+KGF;Kingfisher;661
+SBRY;Jinsbury;608
+BILI;Bilibili;345
+FDJ;La Francaise des Jeux;673
+NCLH;Norwegian Cruise Line;157
+GME;Gamestop;125
+WU;Western Union;1030
+AC;Accor;266
+MB;Mediobanca;719
+ALO;Alstom;200
+PTON;Peloton;128
+RNO;Renault;220
+HFG;HelloFresh;552
+DECK;Deckers;429
+NEXI;Nexi;775
+UN01;Uniper;990
+PLNT;Planet Fitness;819
+WDP;Warehouses De Pauw;1022
+ADE;Adevinta;270
+SCHA;Schibsted;882
+LI;Klepierre;666
+QAN;Qantas Airways;839
+KINV;Kinnevik;663
+COV;Covivio;416
+TKWY;Just Eat Takeaway.com;164
+PSON;Pearson;809
+ALK;Alaska Air Group;280
+TIT;Telecom Italia;957
+SIX2;Sixt;900
+NLSN;Nielsen Holdings;778
+ROCK;Rockwool International;862
+GN;Gn Store Nord;540
+HOG;Harley Davidson;546
+AT1;Aroundtown;311
+PROX;Proximus;830
+BC8;Bechtle;338
+SKX;Skechers;903
+EVD;Cts Eventim;420
+TEMN;Temenos Group;962
+HUSQ;Husqvarna Group;577
+WISE;Wise;1036
+BIRG;Bank Of Ireland Group;331
+PSPN;PSP Swiss Property;833
+PVH;PVH;838
+DNP;Dino Polska;446
+BKG;Berkeley Group Holdings;341
+WRT1V;Wartsila;1024
+HIK;Hikma Pharmaceuticals;563
+UBI;Ubisoft;167
+IPGP;IPG Photonics;601
+ACKB;Ackermans & Van Haaren;267
+HELN;Helvetica Holdings;553
+ALE;Allegro;285
+UTDI;United Internet;993
+MOCORP;Outotec;726
+G24;Scout24;888
+REY;Reply;855
+PZU;Powszechny Zaklad Ubezpieczen;825
+HBI;Hanesbrands;544
+293;Cathay Pacific Airways;379
+SOBI;Swedish Orphan Biovitrum;937
+RUN;Sunrun;932
+TKA;ThyssenKrupp;973
+GPS;GAP;524
+VOE;voestalpine;1016
+NVAX;Novavax;788
+CLN;Clariant;397
+PEO;Bank Pekao;333
+COLR;Colruyt;488
+LHA;Deutsche Lufthansa;437
+LEG;Leggett & Platt;679
+HER;Hera;557
+RF;Eurazeo;489
+LDO;Leonardo;684
+SCR;Scor;887
+A2A;A2A;246
+NRZ;New Residential Investment;770
+MCFE;McAfee;718
+SOI;Soitec;911
+FRA;Fraport;514
+FHZN;Flughafen Zurich;507
+IG;Italgas;605
+WEN;Wendy's;1028
+VIPS;Vipshop;1014
+RMG;Royal Mail;868
+FIE;Fielmann;502
+FI;Georg Fischer;532
+EVT;Evotec;493
+AMBU;Ambu;289
+JBLU;JetBlue Airways;613
+WIX;Wix.com;1037
+BG;Bawag Group;337
+DLG;De'Longhi;428
+GLPG;Galapagos;522
+SXS;Spectris;923
+EVN;EVN Energ-Versorg;490
+MKS;Marks & Spencer Group;714
+ANDR;Andritz;299
+BAMI;Banco BPM;326
+MF;Wendel;1027
+FR;Valeo;1000
+VAR1;Varta;1002
+VPK;Royal Vopak;869
+BB;Blackberry;124
+STR;Strabag;927
+HLF;Herbalife;558
+EO;Faurecia;497
+CDR;CD Projekt;381
+GL9;Glanbia;536
+FTI;TechnipFMC;954
+MMK;Mayr Melnhof;717
+LXS;Lanxess;676
+AMS;ams;296
+EZJ;Easyjet;463
+LPP;LPP;696
+SOP;Sopra Steria Group;920
+TUI;TUI;155
+IWG;IWG;607
+FL;Foot Locker;509
+XRX;Xerox;1043
+IIA;Immofinanz;584
+TRIP;Tripadvisor;979
+WIE;Wienerberger;1034
+FNTN;Freenet;515
+VIG;Vienna Insurance Group;1012
+BBBY;Bed Bath Beyond;339
+SIM;SimCorp;897
+CAI;CA Immo;364
+RUI;Rubis;871
+SESG;SES;893
+WIZZ;Wizz Air;1038
+NETC;Netcompany;768
+B4B;Metro;725
+BYND;Beyond Meat;344
+QTCOM;The Qt Company;842
+ISS;ISS;604
+DUFN;Dufry;458
+ROO;Deliveroo;431
+PSM;ProSiebenSat.1 Media;828
+POST;Oesterreichische Post;801
+LNZ;Lenzing;683
+WEED;Canopy Growth;370
+TLRY;Tilray Brands Inc;974
+YELP;Yelp;1047
+AG1;AUTO1 Group;322
+OSTK;Overstock.com;178
+GSAT;Globalstar;189
+UQA;UNIQA;991
+NEL;NEL;763
+FCEL;FuelCell Energy;520
+TCOM;Trip.com;153
+ANF;Abercrombie & Fitch;250
+ATS;AT&S;316
+IVG;Iveco Group;1089
+SPI;S IMMO;874
+GPRO;GoPro;159
+CRON;Cronos Group;418
+THG;THG;971
+DOC;DO & CO;451
+CPRX;Catalyst Pharmaceuticals;377
+IVR;Invesco Mortgage Capital;599
+JMIA;Jumia Technologies;173
+REAL;RealReal;174
+INO;Inovio Pharmaceuticals;589
+BNGO;Bionano Genomics;187
+NNDM;Nano Dimension;760
+SNDL;Sundial Growers;931
+ACB;Aurora Cannabis;321
+IDEX;Ideanomics;581
+INPST;Inpost;590
+RBI;Raiffeisen Bank International;843
+UCG;UniCredit;988
+SK;SEB;891
+SBO;Schoeller-Bleckmann Oilfield Equipment;885
+ATO;Atos;1087
+HYUD;Hyundai Motors;578
+SBRCY;Sberbank;881
+NOD;Nordic Semiconductor;783
+CDI;Dior;391
+DBK;Deutsche Bank;435
+OMV;OMV;796
+ATE;Alten;286
+SAB;Banco De Sabadell;327
+ALFA;Alfa Laval;283
+NEM;Nemetschek;764
+PKI;Perkinelmer;812
+TMV;TeamViewer;953
+LONN;Lonza;694
+ROSE;Zur Rose Group;1051
+ASSA;Assa Abloy;314
+CABK;CaixaBank;367
+HNR1;Hannover Rueck;545
+BSAN;Santander;328
+CHKP;Check Point Software;386
+VACN;VAT Group;1003
+DSY;Dassault Systemes;211
+ENEL;Enel;478
+GET;Getlink;533
+ELIS;Elis;474
+MORN;Morningstar;754
+DIM;Sartorius Stedim Biotech;880
+UHR;Swatch;935"}]
